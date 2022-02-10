@@ -1,0 +1,7 @@
+# Start with deny all images
+*.png
+*.jpg
+*.bmp
+
+## Allow all source images
+!ship_4k_rgba.png
